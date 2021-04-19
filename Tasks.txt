@@ -1,0 +1,11 @@
+Webpack
+  Babel
+  Scss
+  Eslint
+  2 Mods
+    - Dev
+      DevServer(при изменении кода, страница сразу обновляется), SourceMap, Not Minified JS & CSS
+    - Prod
+      Minified code
+
+Git
